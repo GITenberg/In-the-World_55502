@@ -1,0 +1,38 @@
+_repo: In-the-World_55502
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Foakes, Gertrude M.
+    alias: Foakes, G. M.
+    gutenberg_agent_id: '48374'
+    url: http://www.gutenberg.org/2009/agents/48374
+creator:
+  author:
+    agent_name: Gorky, Maksim
+    aliases:
+    - Gorky, Maxime
+    - Gorky, Maxim
+    - Горький, Максим
+    - Peshkov, Alexey Maximiovich
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '348'
+    url: http://www.gutenberg.org/2009/agents/348
+    wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
+description: ''
+gutenberg_issued: '2017-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55502'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Authors, Russian -- Biography'
+- !lcsh 'Gorky, Maksim, 1868-1936'
+- !lcsh 'Russia -- Social life and customs'
+- GITenberg
+title: In the World
+url: http://www.gutenberg.org/ebooks/55502
