@@ -1,11 +1,14 @@
 _repo: In-the-World_55502
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Foakes, Gertrude M.
     alias: Foakes, G. M.
     gutenberg_agent_id: '48374'
     url: http://www.gutenberg.org/2009/agents/48374
+covers:
+- cover_type: archival
+  image_path: 55502-h/images/cover.jpg
 creator:
   author:
     agent_name: Gorky, Maksim
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/348
     wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55502#In-the-World
 gutenberg_issued: '2017-09-07'
 gutenberg_type: Text
 identifiers:
